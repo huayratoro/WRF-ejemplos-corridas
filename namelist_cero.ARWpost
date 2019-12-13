@@ -7,7 +7,7 @@
 /
 
 &io
- input_root_name = '/home/marcos/Build_WRF/WRF/test/em_real/wrfout_d01_2012-09-17_18:00:00'
+ input_root_name = '.../Build_WRF/WRF/test/em_real/wrfout_d01_2012-09-17_18:00:00'
  output_root_name = './test'
  plot = 'all'
  fields = 'height,theta,tc,tk,td,td2,rh,rh2,umet,vmet,pressure,u10m,v10m,wdir,wspd,wd10,ws10,slp,mcape,mcin,lcl,lfc,cape,cin,dbz,max_dbz,clfr'
