@@ -24,7 +24,7 @@
  truelat1  =  -24.75,
  truelat2  =  0.0,
  stand_lon = -65.5,
- geog_data_path = '/home/marcos/Build_WRF/WPS_GEOG_LOW_RES/'
+ geog_data_path = '.../Build_WRF/WPS_GEOG_LOW_RES/'
 /
 
 &ungrib
