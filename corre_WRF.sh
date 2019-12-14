@@ -19,7 +19,7 @@ cd .../Build_WRF/WPS/
 # ahora ejecutar el ungrib.exe
 ./ungrib.exe
 # finalmente ejecutar el metgrid.exe 
-./metgrib.exe
+./metgrid.exe
 ##	Segunda parte: WRF
 # moverse a la carpeta .../test/em_real de WRF
 cd .../Build_WRF/WRF/test/em_real/
